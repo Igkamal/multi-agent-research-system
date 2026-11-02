@@ -2,6 +2,12 @@
 
 An AI research assistant where **four specialised agents work as a pipeline**: they search the web, read a source page, write a structured report, and then critique it. It runs from the terminal or through an animated **Streamlit** web UI.
 
+## 📸 Screenshots
+
+![Home screen](assets/home.png)
+
+![Results screen](assets/results.png)
+
 
 ## 📑 Table of Contents
 
