@@ -10,7 +10,8 @@ load_dotenv()
 #model setup 
 llm = ChatGroq(
     model="qwen/qwen3.8-27b",
-    temperature=0
+    temperature=0,
+    max_tokens=700
 )
 
 #1st agent 
