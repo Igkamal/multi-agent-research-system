@@ -105,6 +105,7 @@ Multi Agent System/
 ├── pipeline.py         # Command-line version of the pipeline
 ├── agents.py           # LLM setup, search/reader agents, writer and critic chains
 ├── tools.py            # web_search (Tavily) and scrape_url (BeautifulSoup) tools
+├── assets/             # UI screenshots used in this README
 ├── requirement.txt     # Python dependencies
 ├── .env                # Your API keys (never commit this)
 ├── .env.example        # Template showing the required variables
